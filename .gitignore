@@ -2,8 +2,3 @@ node_modules
 package-lock.json
 public/dist/bundle.js
 .DS_Store
-.firebase/
-.firebaserc
-.github/
-database.rules.json
-firebase.json
